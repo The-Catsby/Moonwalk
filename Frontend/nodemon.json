@@ -1,0 +1,19 @@
+{
+  "restartable": "rs",
+  "ignore": [
+    ".git",
+    "node_modules/**/node_modules",
+    "**/**.test.js",
+    "\"**/**.spec.js\""
+  ],
+  "verbose": true,
+  "watch": [
+    "bin",
+    "public",
+    "../cs419-backend"
+  ],
+  "env": {
+    "NODE_ENV": "development"
+  },
+  "ext": "js json"
+}

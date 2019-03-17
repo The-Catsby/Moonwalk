@@ -1,0 +1,29 @@
+/*.link {
+  max-width: 25%;
+  color: #FFFFFF;
+  padding: 20px;
+  display: inline-block;
+  text-decoration: none;
+  font-weight: bold;
+  transition: .2s opacity ease;
+}
+.link:hover {
+  background-color: #9b9797;
+  color: white;
+}
+
+.activeLink {
+  background-color: #FFFFFF;
+  color: #585555;
+
+}
+
+.navbar {
+  background-color: #585555;
+  text-align: center;
+}
+*/
+
+IndexLink.RightElement {
+  text-decoration: none;
+}
