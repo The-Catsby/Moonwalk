@@ -1,15 +1,15 @@
-#cs419-frontend
+# cs419-frontend
 
-##Scripts
+### Scripts
 [Scripts](./docs/scripts.md)
 
-##Docker
+### Docker
 [Docker](./docs/docker.md)
 
-##Directory Structure
+### Directory Structure
 [Directory Structure](./docs/directory.md)
 
-##Documentation
+### Documentation
 * Add Route to:
     * routes.js
     * array of views in server/routes/index.js ( several lines about app.listen() near bottom )
@@ -22,7 +22,7 @@
 * Setup:  ```npm install```
   * Global installs needed:   ```npm i -g cross-env concurrently nodemon```
 
-###StyleGuide
+### StyleGuide
 
 * [AirBnB React StyleGuide](./docs/Airbnb-React-JSX-Style-Guide.md)
 * [StyleGuide Additions to AirBnB's](./docs/react-style-guide.md)
